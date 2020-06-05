@@ -1,15 +1,15 @@
 #### NextFit
 
-![Next Fit](C:\Users\전정원\Desktop\Next Fit.PNG)
+![Next Fit](C:\Users\전정원\github\tmp\Next Fit.PNG)
 
 
 
 #### BestFit
 
-![Best Fit](C:\Users\전정원\Desktop\Best Fit.PNG)
+![Best Fit](C:\Users\전정원\github\tmp\Best Fit.PNG)
 
 
 
 #### WorstFit
 
-![Worst Fit](C:\Users\전정원\Desktop\Worst Fit.PNG)
+![Worst Fit](C:\Users\전정원\github\tmp\Worst Fit.PNG)
